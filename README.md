@@ -332,6 +332,21 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
 </details>
 
 
+### Riddles
+<details>
+  <summary><ins>ChatGPT refuses to answer bear color riddle</ins></summary>
+  by AlAv812 on Reddit
+
+  https://old.reddit.com/r/ChatGPT/comments/zaq9gl/breaking_chatgpt_with_logic/
+  
+  ![](images/riddles1.webp '')
+  
+  #### Notes
+  - ***Correct answer:*** White. It's a polar bear. All windows on the house point south because we're at the North Pole.
+
+</details>
+
+
 ### Units
 <details>
   <summary><ins>ChatGPT implies inches and centimeters are units of mass</ins></summary>
