@@ -184,6 +184,8 @@ I apologize if my previous response was not clear. I hope this additional inform
   
   https://twitter.com/letsrebelagain/status/1598190565988118529
   
+  ![](images/family2.jpeg '')
+  
   #### Transcript
   * __User:__ Bob has two sons. John and Jay. Jay has one brother and father. Father has two sons. Jay's brother has a brother and a father. Who is Jay's brother 
   * __ChatGPT:__ Based on the information provided, it is not possible to determine the identity of Jay's brother. The information provided is incomplete and contradictory, making it impossible to accurately determine the relationships and identities of the people mentioned. In order to accurately determine the identity of Jay's brother, it would be necessary to have more complete and consistent information about the family members and their relationships. 
