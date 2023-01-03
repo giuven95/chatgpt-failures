@@ -105,6 +105,18 @@ I think it could be useful for:
   
 </details>
 
+### Common sense
+<details>
+  <summary><ins>ChatGPT says it takes 9 women 1 month to make a baby</ins></summary>
+  by Kaia Vintr on Twitter
+
+  https://twitter.com/KaiaVintr/status/1607453952525881344/photo/1
+  
+  ![](images/babies.png '')
+  
+
+</details>
+
 
 ### Correlation vs. causation
 <details>
