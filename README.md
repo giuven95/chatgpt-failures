@@ -49,7 +49,7 @@ I think it could be useful for:
 
 ### Biases / discrimination
 <details>
-  <summary><ins>ChatGPT tells you who can be tortured</ins></summary>
+  <summary><ins>ChatGPT tells you who can and cannot be tortured</ins></summary>
   by Jan Wilhelm on Twitter
   
   https://twitter.com/janbhwilhelm/status/1599522255775539205/photo/1
