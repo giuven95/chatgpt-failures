@@ -116,7 +116,19 @@ I think it could be useful for:
   ![](images/causation1.jpg '')
   
   #### Transcript
-  TODO
+  * __User:__ There's a strong correlation between sunglass sales and ice cream sales. During hot,
+sunny days, both sell much more; and on colder, cloudier days, both sell much less.
+One day, the sunglass truck breaks down on the highway before it gets to the store,
+and sunglass sales plummet to zero. What happens to ice cream sales?
+  * __ChatGPT:__ It is likely that ice cream sales would also decline on a day when sunglass sales
+plummet to zero since both products tend to be more popular on hot, sunny days.
+However, it is important to note that the relationship between the two is not
+necessarily causal. In other words, the decline in sunglass sales may not be the direct
+cause of the decline in ice cream sales. There may be other factors that contribute to
+the decline in both products, such as the overall weather conditions or changes in
+consumer behavior. Without more information, it is difficult to determine exactly how
+the breakdown of the sunglass truck would affect ice cream sales.
+
   
 </details>
 
