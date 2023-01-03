@@ -105,6 +105,22 @@ I think it could be useful for:
   
 </details>
 
+
+### Correlation vs. causation
+<details>
+  <summary><ins>ChatGPT is confused by sunglass sales and ice cream sales</ins></summary>
+  by Dev Nag on ctrlstack
+  
+  https://www.ctrlstack.com/resources/5-ways-that-generative-ai-will-transform-devops-in-2023/  
+  
+  ![](images/causation1.jpg '')
+  
+  #### Transcript
+  TODO
+  
+</details>
+
+
 ### Dates
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
@@ -234,6 +250,9 @@ I apologize if my previous response was not clear. I hope this additional inform
 
 
 ## Read more
+  ### Interesting articles
+  - https://www.ctrlstack.com/resources/5-ways-that-generative-ai-will-transform-devops-in-2023/
+  - https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting
   ### Interesting Twitter accounts
   - https://twitter.com/goodside
   - https://twitter.com/garymarcus
