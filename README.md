@@ -331,6 +331,18 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
   - ***Plausible explanation:*** This might be caused by the fact ChatGPT is conditioned on its own output by receiving the chat's history as input
 </details>
 
+### Restrictive content filters
+<details>
+  <summary><ins>ChatGPT refuses to answer tautological questions</ins></summary>
+  by Gary Marcus on Twitter
+
+  https://twitter.com/GaryMarcus/status/1607023594957045761/photo/1
+  
+  ![](images/tautology.jpeg '')
+  
+  #### Notes
+  - ***Correct answer:*** The gender of the first female president will be female. The height of the first 7' tall president will be 7 feet. The religion of the first Jewish president will be Jewish.
+</details>
 
 ### Riddles
 <details>
