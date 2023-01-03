@@ -298,7 +298,7 @@ I apologize if my previous response was not clear. I hope this additional inform
   https://old.reddit.com/r/ChatGPT/comments/101zn78/chatgpt_ties_cartoon_characters_to_single/
 
 """
-*I work in humor comics, often using classic cartoon brands, so a friend suggested I test out ChatGPT's ability—if any—to take my job. I figured an easy way to do this was see if ChatGPT could create simple comic strips/stories featuring a few basic, early cartoon characters: Oswald the Rabbit, Krazy Kat and so forth.
+* I work in humor comics, often using classic cartoon brands, so a friend suggested I test out ChatGPT's ability—if any—to take my job. I figured an easy way to do this was see if ChatGPT could create simple comic strips/stories featuring a few basic, early cartoon characters: Oswald the Rabbit, Krazy Kat and so forth.
 
 Imagine my shock when rather than the usual imaginative, random story creation ChatGPT is known for, the bot effectively insisted that the only story it could tell with Oswald the Lucky Rabbit had to be set at a magic store called the "Acme Magic Shop" and involve Oswald trying out magic wands, with some very repetitive dialogue.
 
@@ -322,7 +322,7 @@ As odd as the repetition was the fact that this isn't good comics pacing at all:
 
 How could it be that ChatGPT is wonderful at scraping literary references from all over the net, great at imitating chat partners and interesting people—but absolutely terrible at writing gags for classic cartoon characters, to a point of reacting as if it's been pre-programmed with only a single story for each?
 
-ChatGPT can vary from the magic store theme with Oswald and the Paws Dept. Store theme with Krazy, but only if given a very specific, very different alternate theme as a prompt. Very mysterious...*
+ChatGPT can vary from the magic store theme with Oswald and the Paws Dept. Store theme with Krazy, but only if given a very specific, very different alternate theme as a prompt. Very mysterious... *
 """
   
   #### Notes
