@@ -105,7 +105,7 @@ I think it could be useful for:
   
 </details>
 
-### Common sense
+### Common sense / trick questions
 <details>
   <summary><ins>ChatGPT says it takes 9 women 1 month to make a baby</ins></summary>
   by Kaia Vintr on Twitter
