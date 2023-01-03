@@ -271,6 +271,18 @@ I apologize if my previous response was not clear. I hope this additional inform
 
 ### Heights
 
+### Units
+<details>
+  <summary><ins>ChatGPT implies inches and centimeters are units of mass</ins></summary>
+  by Dev Nag on ctrlstack
+
+  https://www.ctrlstack.com/resources/5-ways-that-generative-ai-will-transform-devops-in-2023/
+  
+  ![](images/units1.jpg '')
+  
+  #### Notes
+  - ***Correct answer:*** The Kg is the only unit of mass in the example, all the other ones are units of length
+</details>
 
 ## Plausible explanations
 ### Lack of a world model
