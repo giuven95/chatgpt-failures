@@ -251,6 +251,23 @@ I apologize if my previous response was not clear. I hope this additional inform
   - ***Originally by:*** Douglas Hofstadter and David Bender 
 </details>
 
+<details>
+  <summary><ins>ChatGPT contradicts itself on Argentina World Cup wins</ins></summary>
+  by Indranil Sinharoy on Twitter
+
+  https://twitter.com/indranil_leo/status/1608548534386565120
+  
+  ![](images/argentina1.png '')
+  
+  """
+  
+*Asked #ChatGPT abt who won the FIFA world cup in 2022. It couldn't answer. That's expected. However, it seems to provide wrong information (abt the other 2 wins) even though the information is there in the system. Any #Explanations?*
+  
+  """
+  
+  #### Notes
+  - ***Correct answer:*** Argentina had won two world cups before 2021 (1978, 1986), and another one in 2022
+</details>
 
 ### Heights
 
