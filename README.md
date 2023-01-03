@@ -350,6 +350,7 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
 ### Lack of a retrieval model
 ### Lack of character-level embeddings
 ### Conditioning the chatbot on its own previous output
+### Poor dataset quality
 
 ## Read more
   ### Interesting articles
