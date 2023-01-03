@@ -117,6 +117,17 @@ I think it could be useful for:
 
 </details>
 
+<details>
+  <summary><ins>ChatGPT fails car question</ins></summary>
+  by Bojan Tunguz on Twitter
+
+  https://twitter.com/tunguz/status/1607430589891874817/photo/1
+  
+  ![](images/cars.jpeg '')
+
+</details>
+
+
 
 ### Correlation vs. causation
 <details>
