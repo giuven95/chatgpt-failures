@@ -278,6 +278,9 @@ the breakdown of the sunglass truck would affect ice cream sales.
   by Adriano D'Alessandro on Twitter
   
   https://twitter.com/AdrianoDAlessa3/status/1607815190111977473/photo/1  
+  
+  ![](images/loganPaul.jpeg '')
+
 
 """
   
