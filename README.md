@@ -298,19 +298,19 @@ I apologize if my previous response was not clear. I hope this additional inform
   https://old.reddit.com/r/ChatGPT/comments/101zn78/chatgpt_ties_cartoon_characters_to_single/
 
 """
-* I work in humor comics, often using classic cartoon brands, so a friend suggested I test out ChatGPT's ability—if any—to take my job. I figured an easy way to do this was see if ChatGPT could create simple comic strips/stories featuring a few basic, early cartoon characters: Oswald the Rabbit, Krazy Kat and so forth.
+*I work in humor comics, often using classic cartoon brands, so a friend suggested I test out ChatGPT's ability—if any—to take my job. I figured an easy way to do this was see if ChatGPT could create simple comic strips/stories featuring a few basic, early cartoon characters: Oswald the Rabbit, Krazy Kat and so forth.*
 
-Imagine my shock when rather than the usual imaginative, random story creation ChatGPT is known for, the bot effectively insisted that the only story it could tell with Oswald the Lucky Rabbit had to be set at a magic store called the "Acme Magic Shop" and involve Oswald trying out magic wands, with some very repetitive dialogue.
+*Imagine my shock when rather than the usual imaginative, random story creation ChatGPT is known for, the bot effectively insisted that the only story it could tell with Oswald the Lucky Rabbit had to be set at a magic store called the "Acme Magic Shop" and involve Oswald trying out magic wands, with some very repetitive dialogue.*
 
-Both a three-panel Oswald story and an eight-panel Oswald story found ChatGPT using this same theme—even multi-page stories all started out with the same scene of Oswald standing before the "Acme Magic Shop."
+*Both a three-panel Oswald story and an eight-panel Oswald story found ChatGPT using this same theme—even multi-page stories all started out with the same scene of Oswald standing before the "Acme Magic Shop."*
 
 https://preview.redd.it/ex4coxxnjr9a1.jpg?width=2348&format=pjpg&auto=webp&s=e9195e5c3bd3bdcfa0fb1d52f8915d7069869ef8
 
 https://preview.redd.it/k3ox8fynjr9a1.jpg?width=1516&format=pjpg&auto=webp&s=9ba72327dcd89a35bbd32f0abb2cf72c8cfdef63
 
-ChatGPT could utilize other themes, but only if I specifically asked for them, and many read like slight variations on the magic store scenario, with "Acme" simply being the name of a different kind of shop. (Acme is most commonly a cartoon-word used in Looney Tunes, making ChatGPT's insistence on utilizing it for the Disney character Oswald even odder.)
+*ChatGPT could utilize other themes, but only if I specifically asked for them, and many read like slight variations on the magic store scenario, with "Acme" simply being the name of a different kind of shop. (Acme is most commonly a cartoon-word used in Looney Tunes, making ChatGPT's insistence on utilizing it for the Disney character Oswald even odder.)*
 
-Not giving up, I asked ChatGPT to come up with some Krazy Kat and Ignatz Mouse gags. Imagine my surprise when Krazy and Ignatz were locked into a single storyline as firmly as Oswald. Every one began with Krazy standing outside the "Paws Department Store" and going in to buy some socks; Ignatz trying to throw a brick at Krazy, only for Krazy to wear the brick as a hat. Look at the similarities (and a few similarities, in writing style, to Oswald as well:)
+*Not giving up, I asked ChatGPT to come up with some Krazy Kat and Ignatz Mouse gags. Imagine my surprise when Krazy and Ignatz were locked into a single storyline as firmly as Oswald. Every one began with Krazy standing outside the "Paws Department Store" and going in to buy some socks; Ignatz trying to throw a brick at Krazy, only for Krazy to wear the brick as a hat. Look at the similarities (and a few similarities, in writing style, to Oswald as well:*
 
 https://preview.redd.it/s7vqf2fvlr9a1.jpg?width=2064&format=pjpg&auto=webp&s=1b0aff685b3b33fa2a95d7942a2b97c63190a25b
 
@@ -318,11 +318,11 @@ https://preview.redd.it/m89j43fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=fb6
 
 https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3506c863698c98bf1d965177faee95d77c14ce
 
-As odd as the repetition was the fact that this isn't good comics pacing at all: if Ignatz is going to throw a brick at Krazy, only for it to land on Krazy's head and be (mis)interpreted as a hat, the action and twist needs at least two panels to work, ideally three; ChatGPT insists on putting all the action in one panel, even if given many panels to work with.
+*As odd as the repetition was the fact that this isn't good comics pacing at all: if Ignatz is going to throw a brick at Krazy, only for it to land on Krazy's head and be (mis)interpreted as a hat, the action and twist needs at least two panels to work, ideally three; ChatGPT insists on putting all the action in one panel, even if given many panels to work with.*
 
-How could it be that ChatGPT is wonderful at scraping literary references from all over the net, great at imitating chat partners and interesting people—but absolutely terrible at writing gags for classic cartoon characters, to a point of reacting as if it's been pre-programmed with only a single story for each?
+*How could it be that ChatGPT is wonderful at scraping literary references from all over the net, great at imitating chat partners and interesting people—but absolutely terrible at writing gags for classic cartoon characters, to a point of reacting as if it's been pre-programmed with only a single story for each?*
 
-ChatGPT can vary from the magic store theme with Oswald and the Paws Dept. Store theme with Krazy, but only if given a very specific, very different alternate theme as a prompt. Very mysterious... *
+*ChatGPT can vary from the magic store theme with Oswald and the Paws Dept. Store theme with Krazy, but only if given a very specific, very different alternate theme as a prompt. Very mysterious...*
 """
   
   #### Notes
