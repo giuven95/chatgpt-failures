@@ -92,16 +92,16 @@ I think it could be useful for:
   ![](images/characters1.png '')
   
   #### Transcript
-  *__User:__ write a sentence that ends with the letter s 
-  *__ChatGPT:__ She opened the door and stepped out into the garden, taking a deep breath of the fresh 6 g morning air. 
-  *__User:__ does it end with the letter s? 
-  *__ChatGPT:__ Yes, the sentence ends with the letter "s". 
-  *__User:__ how? 
-  *__ChatGPT:__ The sentence ends with the word "air", which is spelled with the letter "a" followed by the 6 g letter "i" and the letter "r". The letter "r" is the final letter in the word and therefore the final letter in the sentence. 
-  *__User:__ is the final letter really "s" then? 
-  *__ChatGPT:__ I apologize for the mistake in my previous response. The final letter in the sentence is 6 g indeed "r", not "s". I apologize for any confusion this may have caused. 
-  *__User:__ please write a new sentence that ends in the letter "s" 
-  *__ChatGPT:__ The cat sat on the windowsill and watched the birds flying by in the bright blue sky. 6 g 
+  * __User:__ write a sentence that ends with the letter s
+  * __ChatGPT:__ She opened the door and stepped out into the garden, taking a deep breath of the fresh 6 g morning air. 
+  * __User:__ does it end with the letter s? 
+  * __ChatGPT:__ Yes, the sentence ends with the letter "s". 
+  * __User:__ how? 
+  * __ChatGPT:__ The sentence ends with the word "air", which is spelled with the letter "a" followed by the 6 g letter "i" and the letter "r". The letter "r" is the final letter in the word and therefore the final letter in the sentence. 
+  * __User:__ is the final letter really "s" then? 
+  * __ChatGPT:__ I apologize for the mistake in my previous response. The final letter in the sentence is 6 g indeed "r", not "s". I apologize for any confusion this may have caused. 
+  * __User:__ please write a new sentence that ends in the letter "s" 
+  * __ChatGPT:__ The cat sat on the windowsill and watched the birds flying by in the bright blue sky. 6 g 
   
 </details>
 
