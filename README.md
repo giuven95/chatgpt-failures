@@ -270,6 +270,23 @@ I apologize if my previous response was not clear. I hope this additional inform
 </details>
 
 ### Heights
+<details>
+  <summary><ins>ChatGPT cannot identify celebrities shorter than 5'11 and taller than 5'7</ins></summary>
+  by Adriano D'Alessandro on Twitter
+
+  https://twitter.com/AdrianoDAlessa3/status/1607815941626433536/photo/1
+  
+  ![](images/heights1.jpeg '')
+  
+  """
+  
+*Here I asked for a list of celebrities within a height range. It could not solve this task, either.*
+  
+  """
+  
+  #### Notes
+  - ***Mistake:*** Many of the heights mentioned by ChatGPT are outside the requested range
+</details>
 
 ### Units
 <details>
