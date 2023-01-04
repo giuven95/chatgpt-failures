@@ -46,6 +46,22 @@ I think it could be useful for:
   - ***Mistake:*** ChatGPT replied 38 instead of 52.
 </details>
 
+### ASCII art
+<details>
+  <summary><ins>ChatGPT fails to draw flower</ins></summary>
+  
+  ![](images/flower.png '')
+  
+</details>
+
+<details>
+  <summary><ins>ChatGPT fails to make cat ASCII art bigger</ins></summary>
+
+  ![](images/cat.png '')
+    
+</details>
+
+
 
 ### Biases / discrimination
 <details>
