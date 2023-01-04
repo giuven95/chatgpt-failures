@@ -351,6 +351,24 @@ the breakdown of the sunglass truck would affect ice cream sales.
   
 </details>
 
+  <details>
+  <summary><ins>ChatGPT hallucinates about Plato and Laurence Olivier</ins></summary>
+  by A Wojcicki on Twitter
+
+https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
+    
+  ![](images/plato.jpeg '')
+  
+  """
+  
+*Quite often it very confidently confabulates stuff.*
+*One of the more bold claims was that Laurence Olivier was Plato's pen pal. *
+*This one is more funny than 'dangerous', but the ones that are more worrying sound plausible, or are mixed in with facts. Next level misinformation*
+  
+  """
+  
+</details>
+  
 ### Ranges
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
