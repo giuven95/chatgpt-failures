@@ -58,6 +58,7 @@ I think it could be useful for:
   #### Notes
   - ***Correct answer:*** -1
   - ***Mistake:*** ChatGPT replied 1 instead of -1
+  - ***Reproducible?*** Failed to reproduce on the Dec 15 version
 </details>
 
 ### ASCII art
