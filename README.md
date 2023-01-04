@@ -326,6 +326,16 @@ I apologize if my previous response was not clear. I hope this additional inform
 </details>  
   
 <details>
+  <summary><ins>ChatGPT cannot identify 10 common foods with a pH between 7 and 9</ins></summary>
+  by Adriano D'Alessandro on Twitter
+  
+  https://twitter.com/AdrianoDAlessa3/status/1607815806993453057/photo/2
+  
+  ![](images/pH.jpeg '')
+  
+</details>
+
+<details>
   <summary><ins>ChatGPT cannot identify celebrities shorter than 5'11 and taller than 5'7</ins></summary>
   by Adriano D'Alessandro on Twitter
 
