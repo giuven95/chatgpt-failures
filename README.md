@@ -127,6 +127,16 @@ I think it could be useful for:
 
 </details>
 
+<details>
+  <summary><ins>Right answer + wrong reasoning for widow trick question</ins></summary>
+  by Giuseppe Venuto on Twitter
+  
+  https://twitter.com/GiuseppeVenuto9/status/1610643804754771968
+  
+  ![](images/widow.png '')
+  
+</details>
+
 
 
 ### Correlation vs. causation
