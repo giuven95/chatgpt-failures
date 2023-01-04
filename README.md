@@ -332,7 +332,7 @@ the breakdown of the sunglass truck would affect ice cream sales.
 </details>
 
 <details>
-  <summary><ins>ChatGPT hallucinates citations for a law case</ins></summary>
+  <summary><ins>ChatGPT hallucinates what RLHF means</ins></summary>
   by Sam Charrington on Twitter
 
   https://twitter.com/samcharrington/status/1610365059540066304
