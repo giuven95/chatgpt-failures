@@ -311,6 +311,26 @@ the breakdown of the sunglass truck would affect ice cream sales.
   - ***Correct answer:*** Argentina had won two world cups before 2021 (1978, 1986), and another one in 2022
 </details>
 
+<details>
+  <summary><ins>ChatGPT hallucinates citations for a law case</ins></summary>
+  by Damien Riehl on Twitter
+
+  https://twitter.com/damienriehl/status/1610101912501686279/photo/1
+  
+  ![](images/citations.png '')
+  
+  """
+  
+Oh, #ChatGPT already hallucinates citations! (See below.)
+
+They either:
+1. Don't exist (1, 3, 4, 5)
+2. Don't support the proposition (2)
+  
+  """
+  
+</details>
+
 ### Ranges
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
