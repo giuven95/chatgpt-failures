@@ -331,6 +331,26 @@ the breakdown of the sunglass truck would affect ice cream sales.
   
 </details>
 
+<details>
+  <summary><ins>ChatGPT hallucinates citations for a law case</ins></summary>
+  by Sam Charrington on Twitter
+
+  https://twitter.com/samcharrington/status/1610365059540066304
+
+  ![](images/rlhf.jpeg '')
+  
+  """
+  
+*Is ChatGPT trying to troll me or bullshit me?*
+
+*RLHF = Regularized Leaderboard-Human-Following???*
+
+*WTH??*
+  
+  """
+  
+</details>
+
 ### Ranges
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
