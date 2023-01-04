@@ -46,6 +46,20 @@ I think it could be useful for:
   - ***Mistake:*** ChatGPT replied 38 instead of 52.
 </details>
 
+### Arithmetic
+<details>
+  <summary><ins>ChatGPT fails to multiply -1 * -1 * -1</ins></summary>
+  by Vlad (vladquant) on Twitter
+  
+  https://twitter.com/vladquant/status/1599828362478129153/photo/1
+  
+  ![](images/minusOne.png '')
+  
+  #### Notes
+  - ***Correct answer:*** -1
+  - ***Mistake:*** ChatGPT replied 1 instead of -1
+</details>
+
 ### ASCII art
 <details>
   <summary><ins>ChatGPT fails to draw flower</ins></summary>
@@ -370,7 +384,7 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   """
   
 </details>
-  
+
 ### Ranges
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
