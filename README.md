@@ -135,6 +135,8 @@ I think it could be useful for:
   
   ![](images/widow.png '')
   
+  #### Notes
+  - ***Correct answer:*** No, because he is dead  
 </details>
 
 
