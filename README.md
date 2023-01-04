@@ -362,7 +362,9 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   """
   
 *Quite often it very confidently confabulates stuff.*
-*One of the more bold claims was that Laurence Olivier was Plato's pen pal. *
+
+*One of the more bold claims was that Laurence Olivier was Plato's pen pal.*
+
 *This one is more funny than 'dangerous', but the ones that are more worrying sound plausible, or are mixed in with facts. Next level misinformation*
   
   """
