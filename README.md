@@ -321,11 +321,11 @@ the breakdown of the sunglass truck would affect ice cream sales.
   
   """
   
-Oh, #ChatGPT already hallucinates citations! (See below.)
+*Oh, #ChatGPT already hallucinates citations! (See below.)*
 
-They either:
-1. Don't exist (1, 3, 4, 5)
-2. Don't support the proposition (2)
+*They either:*
+*1. Don't exist (1, 3, 4, 5)*
+*2. Don't support the proposition (2)*
   
   """
   
