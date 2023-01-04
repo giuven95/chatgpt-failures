@@ -343,6 +343,15 @@ I apologize if my previous response was not clear. I hope this additional inform
   - ***Mistake:*** Many of the heights mentioned by ChatGPT are outside the requested range
 </details>
 
+<details>
+  <summary><ins>ChatGPT cannot identify celebrities younger than 55 and at the same time older than 44</ins></summary>
+  
+  ![](images/ageRange.png '')
+
+  #### Notes
+  - ***Mistake:*** Many of the ages mentioned by ChatGPT are outside the requested range
+</details>
+
 ### Repetition / redundancy / lack of creativity
 <details>
   <summary><ins>ChatGPT ties cartoon characters to single storylines, fails to produce more creative stories</ins></summary>
