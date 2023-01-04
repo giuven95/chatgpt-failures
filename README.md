@@ -155,6 +155,17 @@ I think it could be useful for:
   - ***Correct answer:*** No, because he is dead  
 </details>
 
+<details>
+  <summary><ins>ChatGPT on mother's daughter in law</ins></summary>
+  by Giuseppe Venuto on Twitter
+  
+  https://twitter.com/GiuseppeVenuto9/status/1610655749197205504
+
+  ![](images/daughterInLaw.png '')
+  
+  #### Notes
+  - ***Correct answer:*** My mother's daughter in law is my wife
+</details>
 
 
 ### Correlation vs. causation
