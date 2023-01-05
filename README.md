@@ -61,6 +61,17 @@ I think it could be useful for:
   - ***Reproducible?*** Failed to reproduce on the Dec 15 version
 </details>
 
+<details>
+  <summary><ins>ChatGPT and the prime factors of 30</ins></summary>
+  by Gary Marcus on Twitter
+  
+  https://twitter.com/GaryMarcus/status/1610793320279863297/photo/1
+  
+  ![](images/primeFactorsOf30.jpeg '')
+ 
+</details>
+
+
 ### ASCII art
 <details>
   <summary><ins>ChatGPT fails to draw flower</ins></summary>
