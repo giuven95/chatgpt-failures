@@ -284,6 +284,16 @@ the breakdown of the sunglass truck would affect ice cream sales.
   
 </details>
 
+<details>
+  <summary><ins>ChatGPT is confused about who goes first in Chess</ins></summary>
+  by RisksY on Reddit
+
+  https://old.reddit.com/r/OpenAI/comments/1032fj3/wtf/
+
+  ![](images/chess2.webp '')
+  
+</details>
+
 ### Hallucinations / misremembering
 
 <details>
