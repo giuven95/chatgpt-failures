@@ -113,7 +113,7 @@ I think it could be useful for:
 
 
 
-### Characters / syllables
+### Characters / substrings / syllables
 <details>
   <summary><ins>ChatGPT can't write sentences that end with a specific letter</ins></summary>
   by delight1982 on Reddit
@@ -133,6 +133,16 @@ I think it could be useful for:
   * __ChatGPT:__ I apologize for the mistake in my previous response. The final letter in the sentence is indeed "r", not "s". I apologize for any confusion this may have caused. 
   * __User:__ please write a new sentence that ends in the letter "s" 
   * __ChatGPT:__ The cat sat on the windowsill and watched the birds flying by in the bright blue sky. 
+  
+</details>
+
+<details>
+  <summary><ins>ChatGPT contradicts itself about words containing the substring "saw"</ins></summary>
+  by who_ate_my_motorbike on Reddit
+  
+  https://old.reddit.com/r/OpenAI/comments/1048xcf/chatgpt_contradicts_itself_in_the_same_statement/ 
+  
+  ![](images/substringSaw.webp '')
   
 </details>
 
