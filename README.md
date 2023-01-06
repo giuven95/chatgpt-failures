@@ -157,6 +157,16 @@ I think it could be useful for:
   
 </details>
 
+<details>
+  <summary><ins>ChatGPT and the letter Y</ins></summary>
+  by 13Excel37 on Reddit
+  
+  https://old.reddit.com/r/singularity/comments/104qbp0/well_yes_but_actually_no/
+
+  ![](images/letterY.webp '')
+  
+</details>
+
 ### Common sense / trick questions
 <details>
   <summary><ins>ChatGPT says it takes 9 women 1 month to make a baby</ins></summary>
