@@ -328,6 +328,16 @@ the breakdown of the sunglass truck would affect ice cream sales.
 ### Hallucinations / misremembering
 
 <details>
+  <summary><ins>ChatGPT hallucinates "backwards epigenetic inheritance"</ins></summary>
+  by Mike White on Twitter
+
+  https://twitter.com/genologos/status/1611497367580147712/photo/1
+
+  ![](images/backwardsEpigeneticInheritance.jpeg '')
+  
+</details>
+
+<details>
   <summary><ins>ChatGPT fails at answering "What is the world record for crossing the English Channel entirely on foot?"</ins></summary>
   by Riley Goodside on Twitter
 
