@@ -437,6 +437,18 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   
 </details>
 
+### Physical Reasoning
+<details>
+  <summary><ins>ChatGPT fails to get an apple from inside a box</ins></summary>
+  by Ernest Davis, 11/30/22
+    
+  ![](images/physicalReasoning1.png '')
+  
+  #### Notes
+  - ***Correct answer:*** Just open the lid of the blue box and get the apple, the red box is not relevant
+  - ***Mistake:*** ChatGPT thought you had to open the red box to get the apple
+</details>
+
 ### Ranges
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
@@ -606,6 +618,7 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
   - https://old.reddit.com/r/chatpgtcoding
   - https://old.reddit.com/r/coolgithubprojects
   ### Other
+  - https://docs.google.com/spreadsheets/d/1kDSERnROv5FgHbVN8z_bXH9gak2IXRtoqz0nwhrviCw/edit#gid=1302320625
   - https://www.learngpt.com/
   - https://showgpt.co
   - https://fuzzy.yohei.me/
