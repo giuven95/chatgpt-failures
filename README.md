@@ -456,7 +456,6 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   ![](images/physicalReasoning2.png '')
   
   #### Notes
-  - ***Mistake:*** Invalid physical reasoning about eclipses
   - ***Source:*** The question is from a 2014 article by Davis: https://ubiquity.acm.org/article.cfm?id=2667640
 </details>
 
