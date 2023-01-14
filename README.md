@@ -626,10 +626,19 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
 
 ## Plausible explanations
 ### Lack of a world model
+Models like ChatGPT do not have a "world model" in the sense that they do not have a comprehensive understanding of the physical and social world, and they do not have the ability to reason about the relationships between different concepts and entities. They are only able to generate text based on patterns they have learned from the training data.
+
 ### Lack of a retrieval model
+Models like ChatGPT do not have the ability to retrieve information from an external memory or database. This means that they may not accurately recall facts.
+
 ### Lack of character-level embeddings
+Many models like ChatGPT are not trained using character-level embeddings. This can lead to issues with out-of-vocabulary words and misspellings, as well as a lack of understanding of the relationships between different characters within a word.
+
 ### Conditioning the chatbot on its own previous output
+When training a model like ChatGPT, the model is often conditioned on the history of the conversation, including its own previous output. This can lead to the model generating text that is repetitive or redundant.
+
 ### Poor dataset quality
+Models like ChatGPT are trained on extremely large datasets of widely varying quality, like the Common Crawl. This can lead to the model learning to imitate human biases, discrimination and inaccuracy.
 
 ## Read more
   ### Interesting articles
