@@ -579,6 +579,16 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
 
 </details>
 
+### Temporal reasoning
+<details>
+  <summary><ins>ChatGPT cannot infer order of events from simple narrative</ins></summary>
+  by Ernest Davis
+    
+  ![](images/temporalReasoning1.png '')
+  
+  #### Notes
+  - ***Originally by:*** Marcus and Davis, "Rebooting AI"
+</details>
 
 ### Units
 <details>
