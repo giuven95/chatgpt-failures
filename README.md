@@ -449,6 +449,18 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   - ***Mistake:*** ChatGPT thought you had to open the red box to get the apple
 </details>
 
+<details>
+  <summary><ins>ChatGPT about solar and lunar eclipses</ins></summary>
+  by Ernest Davis
+  
+  ![](images/physicalReasoning2.png '')
+  
+  #### Notes
+  - ***Mistake:*** Invalid physical reasoning about eclipses
+  - ***Source:*** The question is from a 2014 article by Davis: https://ubiquity.acm.org/article.cfm?id=2667640
+</details>
+
+
 ### Ranges
 <details>
   <summary><ins>ChatGPT fails birth date question</ins></summary>
