@@ -437,7 +437,7 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   
 </details>
 
-### Physical Reasoning
+### Physical reasoning
 <details>
   <summary><ins>ChatGPT fails to get an apple from inside a box</ins></summary>
   by Ernest Davis, 11/30/22
