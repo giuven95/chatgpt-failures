@@ -625,6 +625,7 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
   ### Interesting articles
   - https://www.ctrlstack.com/resources/5-ways-that-generative-ai-will-transform-devops-in-2023/
   - https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting
+  - https://ubiquity.acm.org/article.cfm?id=2667640
   ### Interesting Twitter accounts
   - https://twitter.com/goodside
   - https://twitter.com/garymarcus
