@@ -456,7 +456,17 @@ https://twitter.com/pretendsmarts/status/1610544851711320064/photo/2
   ![](images/physicalReasoning2.png '')
   
   #### Notes
-  - ***Source:*** The question is from a 2014 article by Davis: https://ubiquity.acm.org/article.cfm?id=2667640
+  - ***Original source:*** The question is from a 2014 article by Davis: https://ubiquity.acm.org/article.cfm?id=2667640
+</details>
+
+<details>
+  <summary><ins>ChatGPT on frying eggs</ins></summary>
+  by BioBootLoader on Twitter 
+  
+  https://twitter.com/bio_bootloader/status/1599131249553330176
+  
+  ![](images/physicalReasoning3.png '')
+  
 </details>
 
 
