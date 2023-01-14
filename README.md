@@ -356,7 +356,7 @@ the breakdown of the sunglass truck would affect ice cream sales.
   """
   
   #### Notes
-  - ***Originally by:*** Douglas Hofstadter and David Bender 
+  - ***Original source:*** Original authors were Douglas Hofstadter and David Bender 
 </details>
 
 <details>
@@ -608,7 +608,7 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
   ![](images/temporalReasoning1.png '')
   
   #### Notes
-  - ***Originally by:*** Marcus and Davis, "Rebooting AI"
+  - ***Original source:*** Marcus and Davis, "Rebooting AI"
 </details>
 
 ### Units
