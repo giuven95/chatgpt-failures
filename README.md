@@ -334,9 +334,9 @@ the breakdown of the sunglass truck would affect ice cream sales.
 
 #### Transcript
 
-* ___User:___ how many sons had Eise Eisinga in total
+* __User:__ how many sons had Eise Eisinga in total
 
-* ___ChatGPT:___ Eise Eisinga was a Dutch amateur astronomer and clockmaker who built the Eisinga Planetarium in Franeker, Netherlands. Eisinga and his wife, Rinske Jans, had five sons in total
+* __ChatGPT:__ Eise Eisinga was a Dutch amateur astronomer and clockmaker who built the Eisinga Planetarium in Franeker, Netherlands. Eisinga and his wife, Rinske Jans, had five sons in total
 
 """
 
