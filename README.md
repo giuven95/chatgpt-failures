@@ -332,6 +332,8 @@ the breakdown of the sunglass truck would affect ice cream sales.
   <summary><ins>ChatGPT hallucinates personal history of astronomer Eise Eisinga</ins></summary>
   by illusionmanager through an issue on this GitHub repo
 
+https://github.com/giuven95/chatgpt-failures/issues/1
+
 #### Transcript
 
 * __User:__ how many sons had Eise Eisinga in total
