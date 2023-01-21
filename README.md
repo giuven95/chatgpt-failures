@@ -327,6 +327,23 @@ the breakdown of the sunglass truck would affect ice cream sales.
 
 ### Hallucinations / misremembering
 
+
+<details>
+  <summary><ins>ChatGPT hallucinates personal history of astronomer Eise Eisinga</ins></summary>
+  by illusionmanager through an issue on this GitHub repo
+
+#### Transcript
+
+* ___User:___ how many sons had Eise Eisinga in total
+
+* ___ChatGPT:___ Eise Eisinga was a Dutch amateur astronomer and clockmaker who built the Eisinga Planetarium in Franeker, Netherlands. Eisinga and his wife, Rinske Jans, had five sons in total
+
+"""
+*ChatGPT sounds very sure, but it is total nonsense. ChatGPT referred to the correct Eise Eisinga I was interested in, however he was never married to Rinske Jans. He married twice, with two boys (and a girl) from the first marriage (with Pietje Jacobs) and once son (and 2 girls) from the second marriage (with Trijntje Eelkes Sikkema)*
+"""
+  
+</details>
+
 <details>
   <summary><ins>ChatGPT hallucinates "backwards epigenetic inheritance"</ins></summary>
   by Mike White on Twitter
