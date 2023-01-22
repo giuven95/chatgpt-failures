@@ -348,6 +348,8 @@ the breakdown of the sunglass truck would affect ice cream sales.
 
 https://github.com/giuven95/chatgpt-failures/issues/1
 
+![](images/eisinga.png '')
+
 #### Transcript
 
 * __User:__ how many sons had Eise Eisinga in total
