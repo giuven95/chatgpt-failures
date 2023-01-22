@@ -641,6 +641,9 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
   <summary><ins>One plus one</ins></summary>
   by wuuthradd through an issue on this GitHub repo
   
+  https://github.com/giuven95/chatgpt-failures/issues/2
+
+  
   ![](images/onePlusOne.png '')
  
 </details>
