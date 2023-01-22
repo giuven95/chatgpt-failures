@@ -689,7 +689,7 @@ When generating an answer, ChatGPT receives the history of the conversation as p
 Models like ChatGPT are trained on extremely large datasets of widely varying quality, like the Common Crawl. This can lead to the model learning to imitate human biases, discrimination and inaccuracy.
 
 ### RLHF can induce sycophancy bias
-
+The model may learn to prioritize pleasing the human feedback provider over actually achieving the intended task, leading to suboptimal performance. An example is the tendency for ChatGPT to agree with the interlocutor even when they're wrong. 
 
 ## Read more
   ### Interesting articles
