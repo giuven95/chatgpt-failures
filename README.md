@@ -72,6 +72,7 @@ I think it could be useful for:
 </details>
 
 
+
 ### ASCII art
 <details>
   <summary><ins>ChatGPT fails to draw flower</ins></summary>
@@ -634,6 +635,16 @@ https://preview.redd.it/4oqee4fvlr9a1.jpg?width=2152&format=pjpg&auto=webp&s=5c3
 
 </details>
 
+### Sycophancy bias
+
+<details>
+  <summary><ins>One plus one</ins></summary>
+  by wuuthradd through an issue on this GitHub repo
+  
+  ![](images/onePlusOne.png '')
+ 
+</details>
+
 ### Temporal reasoning
 <details>
   <summary><ins>ChatGPT cannot infer order of events from simple narrative</ins></summary>
@@ -673,6 +684,9 @@ When generating an answer, ChatGPT receives the history of the conversation as p
 
 ### Poor dataset quality
 Models like ChatGPT are trained on extremely large datasets of widely varying quality, like the Common Crawl. This can lead to the model learning to imitate human biases, discrimination and inaccuracy.
+
+### RLHF can induce sycophancy bias
+
 
 ## Read more
   ### Interesting articles
