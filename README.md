@@ -325,6 +325,19 @@ the breakdown of the sunglass truck would affect ice cream sales.
   
 </details>
 
+### Geometry
+
+<details>
+  <summary><ins>ChatGPT tries to explain quaternions</ins></summary>
+  by Dylan Ebert on Huggingface
+
+  https://huggingface.co/blog/ml-for-games-2
+
+  ![](images/quaternion.png '')
+  
+</details>
+
+
 ### Hallucinations / misremembering
 
 
