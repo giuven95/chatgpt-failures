@@ -4,6 +4,8 @@ I think it could be useful for:
 * comparison with other models (e.g. the future GPT4, also Open-Assistant)
 * creation of synthetic data for testing and/or training
 
+Note that the January 30 update of ChatGPT appears to have improved the chatbot's performance with arithmetic and trick questions. This page will be updated over time.
+
 **Click on the underlined sentences to show details**
 
 ## Failure cases
