@@ -713,8 +713,10 @@ The model may learn to prioritize pleasing the human feedback provider over actu
   - https://old.reddit.com/r/chatgpt
   - https://old.reddit.com/r/chatpgtcoding
   - https://old.reddit.com/r/coolgithubprojects
-  ### Other
+  ### Other lists of failure cases
   - https://docs.google.com/spreadsheets/d/1kDSERnROv5FgHbVN8z_bXH9gak2IXRtoqz0nwhrviCw/edit#gid=1302320625
+  - https://emaggiori.com/chatgpt-fails/
+  ### Other links
   - https://www.learngpt.com/
   - https://showgpt.co
   - https://fuzzy.yohei.me/
