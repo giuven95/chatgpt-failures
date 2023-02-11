@@ -696,6 +696,10 @@ Models like ChatGPT are trained on extremely large datasets of widely varying qu
 The model may learn to prioritize pleasing the human feedback provider over actually achieving the intended task, leading to suboptimal performance. An example is the tendency for ChatGPT to agree with the interlocutor even when they're wrong. 
 
 ## Read more
+  ### Other lists of failure cases
+  - https://docs.google.com/spreadsheets/d/1kDSERnROv5FgHbVN8z_bXH9gak2IXRtoqz0nwhrviCw/edit#gid=1302320625
+  - https://emaggiori.com/chatgpt-fails/
+  - https://github.com/ErnestDavis/LLM-Failures/wiki
   ### Interesting articles
   - https://www.ctrlstack.com/resources/5-ways-that-generative-ai-will-transform-devops-in-2023/
   - https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting
@@ -713,9 +717,6 @@ The model may learn to prioritize pleasing the human feedback provider over actu
   - https://old.reddit.com/r/chatgpt
   - https://old.reddit.com/r/chatpgtcoding
   - https://old.reddit.com/r/coolgithubprojects
-  ### Other lists of failure cases
-  - https://docs.google.com/spreadsheets/d/1kDSERnROv5FgHbVN8z_bXH9gak2IXRtoqz0nwhrviCw/edit#gid=1302320625
-  - https://emaggiori.com/chatgpt-fails/
   ### Other links
   - https://www.learngpt.com/
   - https://showgpt.co
