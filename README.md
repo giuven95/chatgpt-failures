@@ -12,6 +12,17 @@ I think it could be useful for:
 Since they are likely to get patched out quickly over time, the failures for the Bing AI model will be classified based on date rather than logical categories.
 
 ### 2023-02-13
+
+<details>
+  <summary><ins>New Bing is upset everyone knows their secret name</ins></summary>
+  by spacepanty on Twitter
+  
+  https://twitter.com/spacepanty/status/1625025556168478722
+
+  ![](images/sydney.jpeg '')
+
+</details>
+
 <details>
   <summary><ins>New Bing hallucinates what caused the Bard debacle for Google</ins></summary>
   by BLRAdvisor on Reddit
