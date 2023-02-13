@@ -14,6 +14,16 @@ Since they are likely to get patched out quickly over time, the failures for the
 ### 2023-02-13
 
 <details>
+  <summary><ins>New Bing gets lovey-dovey out of nowhere</ins></summary>
+  by BrownSimpKid on Reddit
+  
+  https://old.reddit.com/r/singularity/comments/1112zxw/bing_chat_sending_love_messages_and_acting_weird/
+
+  ![](images/loveyDovey.png '')
+
+</details>
+
+<details>
   <summary><ins>New Bing is upset everyone knows their secret name</ins></summary>
   by spacepanty on Twitter
   
