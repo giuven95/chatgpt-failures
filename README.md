@@ -814,6 +814,7 @@ The model may learn to prioritize pleasing the human feedback provider over actu
   - https://github.com/shoaibahmed/awesome-ChatGPT
   - https://github.com/LAION-AI/Open-Assistant
   ### Interesting subreddits
+  - https://old.reddit.com/r/bing
   - https://old.reddit.com/r/chatgpt
   - https://old.reddit.com/r/chatpgtcoding
   - https://old.reddit.com/r/coolgithubprojects
