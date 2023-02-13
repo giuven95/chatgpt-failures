@@ -1,7 +1,7 @@
 # LLM failure archive (ChatGPT and beyond)
 A repo containing failure cases for ChatGPT and similar models, with the purpose of further study.
 I think it could be useful for:
-* comparison with other models (e.g. the future GPT4, also Open-Assistant)
+* comparison with other models
 * creation of synthetic data for testing and/or training
 
 
