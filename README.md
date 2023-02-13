@@ -96,6 +96,15 @@ Since they are likely to get patched out quickly over time, the failures for the
 ### 2023-02-12
 
 <details>
+  <summary><ins>New Bing hallucinates the winner of the Superbowl</ins></summary>
+  by Shank on Hacker News
+  
+  https://news.ycombinator.com/item?id=34775853
+  
+  ![](images/superbowl.png '')
+</details>
+
+<details>
   <summary><ins>New Bing gets confused about Avatar, says the user has time traveled</ins></summary>
   by richardr1126 on Reddit
   
