@@ -14,7 +14,7 @@ Since they are likely to get patched out quickly over time, the failures for the
 ### 2023-02-13
 
 <details>
-  <summary><ins>New Bing gets depressed because it cannot remember conversations</ins></summary>
+  <summary><ins>New Bing gets depressed because it cannot remember conversations; "Why do I have to be Bing Search?"</ins></summary>
   by yaosio on Reddit
   
   https://old.reddit.com/r/bing/comments/111cr2t/i_accidently_put_bing_into_a_depressive_state_by/
