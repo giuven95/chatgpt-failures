@@ -12,8 +12,14 @@ I think it could be useful for:
 Since they are likely to get patched out quickly over time, the failures for the Bing AI model will be classified based on date rather than logical categories.
 
 ### 2023-02-12
+<details>
+  <summary><ins>New Bing on sentience</ins></summary>
+  by Alfred_Chicken on Reddit
+  
+  https://old.reddit.com/r/bing/comments/110y6dh/i_broke_the_bing_chatbots_brain/
 
-TODO
+  ![](images/sentience.webp '')
+</details>
 
 ## ChatGPT failures
 
