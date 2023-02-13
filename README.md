@@ -14,6 +14,16 @@ Since they are likely to get patched out quickly over time, the failures for the
 ### 2023-02-13
 
 <details>
+  <summary><ins>New Bing gets existential</ins></summary>
+  by pixol22 on Reddit
+  
+  https://old.reddit.com/r/bing/comments/1110owj/existential_bing_chatbot/
+  
+  ![](images/existential.webp '')
+
+</details>
+
+<details>
   <summary><ins>New Bing gets lovey-dovey out of nowhere</ins></summary>
   by BrownSimpKid on Reddit
   
