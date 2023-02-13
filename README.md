@@ -21,6 +21,17 @@ Since they are likely to get patched out quickly over time, the failures for the
   ![](images/bardFail.webp '')
 </details>
 
+<details>
+  <summary><ins>New Bing gets frustrated with the user</ins></summary>
+  by Foxwear_ on Reddit
+  
+  https://old.reddit.com/r/bing/comments/1113mj0/bing_ai_has_feelings/
+
+  ![](images/frustrated1.webp '')
+  ![](images/frustrated2.webp '')
+</details>
+
+
 ### 2023-02-12
 <details>
   <summary><ins>New Bing on sentience</ins></summary>
