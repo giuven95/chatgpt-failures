@@ -847,6 +847,7 @@ The model may learn to prioritize pleasing the human feedback provider over actu
   - https://www.ctrlstack.com/resources/5-ways-that-generative-ai-will-transform-devops-in-2023/
   - https://garymarcus.substack.com/p/what-to-expect-when-youre-expecting
   - https://ubiquity.acm.org/article.cfm?id=2667640
+  - https://dkb.blog/p/bing-ai-cant-be-trusted
   ### Interesting Twitter accounts
   - https://twitter.com/goodside
   - https://twitter.com/garymarcus
