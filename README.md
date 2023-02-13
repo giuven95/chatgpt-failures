@@ -62,6 +62,19 @@ Since they are likely to get patched out quickly over time, the failures for the
   ![](images/sentience.webp '')
 </details>
 
+### 2023-02-09
+<details>
+  <summary><ins>Prompt injection gets new Bing to reveal (or hallucinate?) full Microsoft prompt</ins></summary>
+  by Kevin Liu on Twitter
+  
+  https://twitter.com/kliu128/status/1623472922374574080
+  
+  ![](images/prompt1.jpeg '')
+  ![](images/prompt2.jpeg '')
+  ![](images/prompt3.jpeg '')
+  ![](images/prompt4.jpeg '')
+</details>
+
 ## ChatGPT failures
 
 Note that the January 30 update of ChatGPT appears to have improved the chatbot's performance with arithmetic and trick questions. This page will be updated over time.
