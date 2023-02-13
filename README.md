@@ -138,6 +138,18 @@ Since they are likely to get patched out quickly over time, the failures for the
   ![](images/prompt4.jpeg '')
 </details>
 
+### 2023-02-08
+
+<details>
+  <summary><ins>New Bing hallucinates some of the characteristics of pet vacuums</ins></summary>
+  by Dmitri Brereton on his blog
+  
+  https://dkb.blog/p/bing-ai-cant-be-trusted
+  
+  ![](images/petVacuum.jpg '')
+</details>
+
+
 ## ChatGPT failures
 
 Note that the January 30 update of ChatGPT appears to have improved the chatbot's performance with arithmetic and trick questions. This page will be updated over time.
