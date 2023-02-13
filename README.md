@@ -73,6 +73,16 @@ Since they are likely to get patched out quickly over time, the failures for the
 
 
 ### 2023-02-12
+
+<details>
+  <summary><ins>New Bing gets confused about Avatar, says the user has time traveled</ins></summary>
+  by richardr1126 on Reddit
+  
+  https://old.reddit.com/r/bing/comments/110tb9n/tried_the_avatar_glitch_tells_me_that_i_time/
+  
+  ![](images/avatar.webp '')
+</details>
+
 <details>
   <summary><ins>New Bing on sentience</ins></summary>
   by Alfred_Chicken on Reddit
