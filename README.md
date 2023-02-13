@@ -1,15 +1,23 @@
-# ChatGPT failure archive
-A repo containing ChatGPT failure cases for further study.
+# LLM failure archive (ChatGPT)
+A repo containing failure cases for ChatGPT and similar models, with the purpose of further study.
 I think it could be useful for:
 * comparison with other models (e.g. the future GPT4, also Open-Assistant)
 * creation of synthetic data for testing and/or training
 
-Note that the January 30 update of ChatGPT appears to have improved the chatbot's performance with arithmetic and trick questions. This page will be updated over time.
 
 **Click on the underlined sentences to show details**
 
-## Failure cases
+## New Bing failures
 
+Since they are likely to get patched out quickly over time, the failures for the Bing AI model will be classified based on date rather than logical categories.
+
+### 2023-02-12
+
+TODO
+
+## ChatGPT failures
+
+Note that the January 30 update of ChatGPT appears to have improved the chatbot's performance with arithmetic and trick questions. This page will be updated over time.
 
 ### Ages
 <details>
