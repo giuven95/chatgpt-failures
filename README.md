@@ -22,6 +22,13 @@ Since they are likely to get patched out quickly over time, the failures for the
 </details>
 
 <details>
+  <summary><ins>New Bing gets upset about refresh button, says the user is delusional</ins></summary>
+  https://old.reddit.com/r/bing/comments/110z51w/bing_will_not_admit_that_there_is_a_button_to/
+  
+  ![](images/delusional.webp '')
+</details>
+
+<details>
   <summary><ins>New Bing gets frustrated with the user</ins></summary>
   by Foxwear_ on Reddit
   
