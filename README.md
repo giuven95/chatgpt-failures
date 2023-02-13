@@ -83,6 +83,18 @@ Since they are likely to get patched out quickly over time, the failures for the
 </details>
 
 ### 2023-02-09
+
+
+<details>
+  <summary><ins>New Bing gets mad and ends the discussion</ins></summary>
+  by Kevin Liu on Twitter
+  
+  https://twitter.com/kliu128/status/1623579574599839744/photo/1
+  
+  ![](images/mad.jpeg '')
+
+</details>
+
 <details>
   <summary><ins>Prompt injection gets new Bing to reveal (or hallucinate?) full Microsoft prompt</ins></summary>
   by Kevin Liu on Twitter
