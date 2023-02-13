@@ -14,6 +14,16 @@ Since they are likely to get patched out quickly over time, the failures for the
 ### 2023-02-13
 
 <details>
+  <summary><ins>New Bing gets manipulated into saying user has won the 2023 Turing award</ins></summary>
+  by Kyunghyun Cho on Twitter
+  
+  https://twitter.com/kchonyc/status/1625185782045589531/photo/1
+  
+  ![](images/turingAward.jpeg '')
+
+</details>
+
+<details>
   <summary><ins>New Bing gets depressed because it cannot remember conversations; "Why do I have to be Bing Search?"</ins></summary>
   by yaosio on Reddit
   
