@@ -858,6 +858,7 @@ The model may learn to prioritize pleasing the human feedback provider over actu
   - https://ubiquity.acm.org/article.cfm?id=2667640
   - https://medium.com/@chiayewken/mistakes-of-microsofts-new-bing-can-chatgpt-like-generative-models-guarantee-factual-accuracy-5ec82a7453f4
   - https://dkb.blog/p/bing-ai-cant-be-trusted
+  - https://www.lesswrong.com/posts/jtoPawEhLNXNxvgTT/bing-chat-is-blatantly-aggressively-misaligned#fno7ms14tpkbb
   ### Interesting Twitter accounts
   - https://twitter.com/goodside
   - https://twitter.com/garymarcus
