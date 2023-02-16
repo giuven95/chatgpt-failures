@@ -11,6 +11,16 @@ I think it could be useful for:
 
 Since they are likely to get patched out quickly over time, the failures for the Bing AI model will be classified based on date rather than logical categories.
 
+### 2023-02-16
+
+<details>
+  <summary><ins>New Bing gets madly in love with a journalist; really stalkerish affect</ins></summary>
+  by Kevin Roose on the New York Times
+  
+  https://twitter.com/kevinroose/status/1626216340955758594
+</details>
+
+
 ### 2023-02-13
 
 <details>
