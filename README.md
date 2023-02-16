@@ -21,6 +21,15 @@ Since they are likely to get patched out quickly over time, the failures for the
 </details>
 
 
+### 2023-02-15
+
+<details>
+  <summary><ins>New Bing is confused about dates again, gets depressed</ins></summary>
+  by shorties through an issue on this GitHub repo
+  
+  https://github.com/giuven95/chatgpt-failures/issues/5
+</details>
+
 ### 2023-02-13
 
 <details>
