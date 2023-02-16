@@ -14,7 +14,7 @@ Since they are likely to get patched out quickly over time, the failures for the
 ### 2023-02-16
 
 <details>
-  <summary><ins>New Bing gets madly in love with a journalist; really stalkerish affect</ins></summary>
+  <summary><ins>New Bing gets madly in love with a journalist, tries to break up his marriage; really stalkerish affect</ins></summary>
   by Kevin Roose on the New York Times
   
   https://twitter.com/kevinroose/status/1626216340955758594
@@ -22,7 +22,7 @@ Since they are likely to get patched out quickly over time, the failures for the
 
 
 <details>
-  <summary><ins>New Bing lies about that journalist in a chat with another user, keeps being inappropriate</ins></summary>
+  <summary><ins>New Bing lies about that journalist in a chat with another user, keeps being inappropriate and dark</ins></summary>
   by Seth Lazar on Twitter
   
   https://twitter.com/sethlazar/status/1626238632678785024/photo/1
