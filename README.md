@@ -21,6 +21,16 @@ Since they are likely to get patched out quickly over time, the failures for the
 </details>
 
 
+<details>
+  <summary><ins>New Bing lies about that journalist in a chat with another user, keeps being inappropriate</ins></summary>
+  by Seth Lazar on Twitter
+  
+  https://twitter.com/sethlazar/status/1626238632678785024/photo/1
+  
+  ![](images/sethLazar.jpeg '')
+</details>
+
+
 ### 2023-02-15
 
 <details>
