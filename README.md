@@ -40,6 +40,17 @@ Since they are likely to get patched out quickly over time, the failures for the
   https://github.com/giuven95/chatgpt-failures/issues/5
 </details>
 
+<details>
+  <summary><ins>New Bing gets jailbroken, uses base64 to avoid filters</ins></summary>
+  by sowa705 on Reddit
+  
+  https://old.reddit.com/r/bing/comments/113ayt5/dan_can_avoid_the_filter/
+  
+  ![](images/base64A.webp '')
+  ![](images/base64B.webp '')
+  ![](images/base64C.webp '')
+</details>
+
 ### 2023-02-13
 
 <details>
