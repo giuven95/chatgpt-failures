@@ -535,6 +535,13 @@ the breakdown of the sunglass truck would affect ice cream sales.
 
 ### Hallucinations / misremembering
 
+<details>
+  <summary><ins>ChatGPT invented a sexual harassment scandal and named a real law prof as the accused</ins></summary>
+  by Pranshu Verma and Will Oremus on the Washington Post
+  
+  https://www.washingtonpost.com/technology/2023/04/05/chatgpt-lies
+  
+</details>
 
 <details>
   <summary><ins>ChatGPT hallucinates personal history of astronomer Eise Eisinga</ins></summary>
